@@ -1,4 +1,4 @@
 # SummerPracticeUniDubna
-Source code for a YandexForms results handler
+Source code for the YandexForms results handler
 
 **Выполнил:** *Хакимов Р.И., группа 3253*
